@@ -17,3 +17,10 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+# Virtual Environments
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
